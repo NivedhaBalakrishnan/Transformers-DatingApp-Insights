@@ -30,6 +30,32 @@ The aim of this project is to contribute towards enhancing the potential for ind
 ![Workflow](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights/assets/50318272/cf5f9f7d-c5c3-4380-ade5-478b1cbe3ded)
 
 #### RESULTS
-#####MODEL EVALUATION
+##### MODEL EVALUATION
 
 <h2 align='center'>BUMBLE</h2>
+<img width="860" alt="bumble metric" src="https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights/assets/50318272/2508d0e3-504b-4dac-b57e-6e173ec97fe5">
+
+<h2 align='center'>HINGE</h2>
+<img width="838" alt="hinge metric" src="https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights/assets/50318272/d6a1add2-a9ea-4887-ba22-d02f5404b4fd">
+
+<h2 align='center'>MATCH DATING</h2>
+<img width="819" alt="match metric" src="https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights/assets/50318272/0fb66a57-ea76-4e7d-84c7-0d6936e27df7">
+
+<h2 align='center'>TINDER</h2>
+<img width="822" alt="tinder metric" src="https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights/assets/50318272/ebfc95cd-4dfe-4b9f-aa59-7db66b58b52e">
+
+##### RATING OVER TIME
+![monthly average](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights/assets/50318272/8a15194f-6817-4841-b074-ecfe56c0b417)
+
+##### EXTRACT INSIGHTS USING Q&A BOT
+<h2 align='center'>BUMBLE</h2>
+![bumble](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights/assets/50318272/20114ea4-3aac-45d0-aef7-d62f2f8918a9)
+
+<h2 align='center'>HINGE</h2>
+![hinge](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights/assets/50318272/e708ba49-a7a6-492d-9a4d-0d0262e905c2)
+
+<h2 align='center'>MATCH DATING</h2>
+![match](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights/assets/50318272/2ba1e3f1-8193-4e32-9c53-ad7199c20ae2)
+
+<h2 align='center'>TINDER</h2>
+![tinder](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights/assets/50318272/69648146-1508-491b-ab6a-15a567e5d3a7)
