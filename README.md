@@ -29,3 +29,7 @@ The aim of this project is to contribute towards enhancing the potential for ind
 #### MODEL PIPELINE
 ![Workflow](https://github.com/NivedhaBalakrishnan/Transformers-DatingApp-Insights/assets/50318272/cf5f9f7d-c5c3-4380-ade5-478b1cbe3ded)
 
+#### RESULTS
+#####MODEL EVALUATION
+
+<h2 align='center'>BUMBLE</h2>
